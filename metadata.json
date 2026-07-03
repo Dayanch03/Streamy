@@ -1,0 +1,6 @@
+{
+  "name": "Streamy",
+  "description": "An offline-first, high-speed peer-to-peer file transfer application operating over local network connections using WebRTC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_API"]
+}
